@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm Riley (@rileycode664) 👋
 
-<!--
-**rileycode664/rileycode664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack dev at Creative Lab in Barcelona. I spend most of my time building internal web tools, tidy interfaces, and fast small-footprint APIs.
 
-Here are some ideas to get you started:
+#### Current focus:
+- Making fast backends with Node.js, Express, and SQLite
+- Component design with React + TypeScript
+- Experimenting with local-first web architecture and embedded databases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Daily drivers:
+- **Languages:** TypeScript, JavaScript, SQL, HTML/CSS
+- **Stack:** React, Node.js, Express, SQLite, Tailwind CSS
+- **Tooling:** Vite, Git, Vitest, Docker, Bash
+
+#### Get in touch:
+- Drop an issue or PR on any public repo here
+- Email: riley.codes@proton.me
+- LinkedIn: linkedin.com/in/rileycode664
